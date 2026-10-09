@@ -25,7 +25,8 @@ Usos concretos en la imagen correspondiente
 
 3. Diseño inicial
 
-Diseño en v0
+- Diseño completo de referencia en v0
+- Elementos básicos en Stitch de Google (y en la imagen correspondiente)
 
 Prompt:
 

@@ -2,9 +2,9 @@
 
 1. Diseño y planificación visual
 [X] Boceto en FigJam
-[ ] Elección de paleta de colores
+[X] Elección de paleta de colores
 [X] Elección de tipografías
-[ ] Definición del sistema visual
+[X] Definición del sistema visual
 
 2. Definición de contenidos
 [ ] Definir las secciones
