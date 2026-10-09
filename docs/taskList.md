@@ -1,7 +1,9 @@
+# Lista de tareas
+
 1. Diseño y planificación visual
-[ ] Boceto en FigJam
+[X] Boceto en FigJam
 [ ] Elección de paleta de colores
-[ ] Elección de tipografías
+[X] Elección de tipografías
 [ ] Definición del sistema visual
 
 2. Definición de contenidos
