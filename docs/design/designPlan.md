@@ -1,6 +1,6 @@
 # Plan de diseño
 
-1. Colores
+## Colores
 
 Colores principales:
 - Color de marca (brand): Carmín #C23B4A
@@ -16,16 +16,16 @@ Otros colores:
 
 Usos concretose en la imagen correspondiente
 
-2. Tipografías
+## Tipografías
 
 Familia principal: IBM Plex Sans, con el objetivo de transmitir una imagen profesional, contemporánea y vinculada al ámbito tecnológico, sin resultar excesivamente corporativa ni visualmente recargada.
 Familia secundaria: IBM Plex Mono en pequeños elementos técnicos, como etiquetas de tecnologías o identificadores de proyectos, para introducir un detalle visual relacionado con la programación sin comprometer la legibilidad
 
 Usos concretos en la imagen correspondiente
 
-3. Diseño inicial
+## Diseño inicial
 
-- Diseño completo de referencia en v0
+- Diseño completo de referencia en v0 (código descargado)
 - Elementos básicos en Stitch de Google (y en la imagen correspondiente)
 
 Prompt:
