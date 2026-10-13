@@ -7,18 +7,16 @@
 [X] Definición del sistema visual
 
 2. Definición de contenidos
-[ ] Definir las secciones
-[ ] Redactar los textos
-[ ] Seleccionar los proyectos
-[ ] Preparar los recursos
-[ ] Revisar los contenidos
+[X] Definir las secciones
+[X] Redactar los textos
+[X] Seleccionar los proyectos
+[X] Preparar los recursos
+[X] Revisar los contenidos
 
 3. Configuración del entorno
-[ ] Preparar Node.js, npm y Git
-[ ] Crear proyecto con Vite
+[X] Preparar Node.js, npm y Git
+[X] Crear proyecto con Vite
 [ ] Instalar y configurar Tailwind
-[ ] Preparar estructura inicial
-[ ] Verificar entorno y primer commit
 
 4. Arquitectura y estructura
 [ ] Definir carpetas
