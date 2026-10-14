@@ -16,7 +16,7 @@
 3. Configuración del entorno
 [X] Preparar Node.js, npm y Git
 [X] Crear proyecto con Vite
-[ ] Instalar y configurar Tailwind
+[X] Instalar y configurar Tailwind
 
 4. Arquitectura y estructura
 [ ] Definir carpetas
@@ -25,7 +25,7 @@
 [ ] Definir estrategia de renderizado
 [ ] Definir componentes reutilizables
 
-5. Desarrollo de componentes
+5. Desarrollo y diseño de componentes
 [ ] Estructura global
 [ ] Sección Inicio
 [ ] Sección Sobre mí
