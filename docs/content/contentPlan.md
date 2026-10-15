@@ -2,12 +2,11 @@
 
 ## Secciones
 - Menú de navegación (position: fixed en la parte superior de la pantalla)
-- Sobre mí
+- Sobre mí (Nombre, botón de descarga de CV en la esquina superior derecha y texto)
 - Proyectos
 - Trayectoria (Profesional y educativa en formato roadmap - referencia en el proyecto v0)
 - Habilidades
-- Contacto y CV (GitHub, LinkedIn, Correo Electrónico y descarga de CV)
-
+- Contacto (formulario con Nombre, Email y Mensaje para redirigir directamente a mi correo)
 ## Contenido
 
 ### Textos

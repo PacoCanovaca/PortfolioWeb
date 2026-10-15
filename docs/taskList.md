@@ -19,19 +19,18 @@
 [X] Instalar y configurar Tailwind
 
 4. Arquitectura y estructura
-[ ] Definir carpetas
-[ ] Diseñar composición de la aplicación
-[ ] Definir navegación
-[ ] Definir estrategia de renderizado
-[ ] Definir componentes reutilizables
+[X] Definir carpetas
+[X] Diseñar composición de la aplicación
+[X] Definir navegación
+[X] Definir estrategia de renderizado
+[X] Definir componentes reutilizables
 
 5. Desarrollo y diseño de componentes
 [ ] Estructura global
-[ ] Sección Inicio
 [ ] Sección Sobre mí
-[ ] Sección Skills
 [ ] Sección Proyectos
-[ ] Formación y trayectoria
+[ ] Sección Trayectoria
+[ ] Sección Habilidades
 [ ] Sección Contacto
 [ ] Integrar y revisar secciones
 
