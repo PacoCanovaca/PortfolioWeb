@@ -57,4 +57,3 @@ Para la interacción del usuario con la página, los Componente que se repetirá
 - Botones (general para bordes, espacios, fuentes y tamaños, teniendo luego cada tipo de botón sus colores específicos)
 - Botón de descarga de CV
 - Botón de desplegar detalles de un proyecto
-- Nombre de sección en el menú de navegación (Dentro de <NavLink>)

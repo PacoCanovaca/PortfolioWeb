@@ -1,5 +1,6 @@
 # Lista de tareas
 
+## Planificación
 1. Diseño y planificación visual
 [X] Boceto en FigJam
 [X] Elección de paleta de colores
@@ -25,6 +26,7 @@
 [X] Definir estrategia de renderizado
 [X] Definir componentes reutilizables
 
+## Desarrollo
 5. Desarrollo y diseño de componentes
 [ ] Estructura global
 [ ] Sección Sobre mí
@@ -48,6 +50,7 @@
 [ ] Revisar interacciones táctiles
 [ ] Refinar identidad visual
 
+## Pruebas, revisión y despliegue
 8. Testing y calidad
 [ ] Pruebas funcionales
 [ ] Pruebas visuales
