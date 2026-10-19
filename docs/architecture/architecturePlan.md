@@ -45,7 +45,7 @@ Los componentes que incluyen contenido y que pueden repetirse dependen de las se
 1. Proyectos (Componente "Proyecto")
 En esta sección las tarjetas de los proyectos siguen un patrón similar. Se repetirán títulos, contenidos, botones, colores y tipografías. Además, los tamaños y las proporciones también serán idénticas entre todas las tarjetas.
 
-2. Trayectoria (Componente "Experiencia" y contenedor "Formación")
+2. Trayectoria (Componente "Experiencia" y componente "Formación")
 Tanto las entradas de trayectoria profesional como las de trayectoria educativa compartirán formato, por lo que en este caso el componente con título, contenido y fechas es reutilizable.
 
 3. Habilidades (Componente "Habilidad")

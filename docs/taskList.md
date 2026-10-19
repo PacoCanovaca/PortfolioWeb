@@ -28,7 +28,8 @@
 
 ## Desarrollo
 5. Desarrollo y diseño de componentes
-[ ] Estructura global
+[X] Estructura global
+[ ] Componentes reutilizables
 [ ] Sección Sobre mí
 [ ] Sección Proyectos
 [ ] Sección Trayectoria
