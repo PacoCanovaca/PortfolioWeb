@@ -1,5 +1,4 @@
-import React from 'react';
-import Container from '../mainStructure/Container';
+import Container from '../structure/Container';
 
 const AboutMe = () => {
   return (
@@ -9,4 +8,4 @@ const AboutMe = () => {
   )
 }
 
-export default AboutMe
+export default AboutMe;

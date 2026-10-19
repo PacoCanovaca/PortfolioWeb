@@ -8,7 +8,7 @@ El planteamiento es llevar a cabo una Single Page Application en la que cada sec
 2. Organización del contenido
 En la parte superior de la pantalla, y de forma fija (a la vista en la misma posición cuando se haga scroll), estará el menú de navegación con las 5 secciones principales. Debajo de este menú, cargará el contenedor correspondiente a la sección que se seleccione en cada momento.
 
-Los apartados "Sobre mí", "Trayectoria", "Habilidades" y "Contacto" serán estáticos y cargarán todo el contenido de una sola vez, pero el apartado "Proyectos" incluirá un grid con los proyectos e información muy básica (título y una breve descripción), pero al ser clicados desplegarán información adicional (no en una vista nueva, sino expandiéndose e integrándose con el resto de elementos del grid).
+Los apartados "Sobre mí", "Proyectos", "Trayectoria", "Habilidades" y "Contacto" serán estáticos y cargarán todo el contenido de una sola vez.
 
 El footer incluirá los enlaces de contacto para GitHub, LinkedIn y Correo Electrónico y un botón para descargar el CV (aunque ya está incluido en el inicio del Sobre Mí).
 
@@ -35,9 +35,10 @@ Además, la carga del código será una conjunta desde el inicio, teniendo en cu
 
 ### Estructura
 Los elementos que forman el esqueleto de la aplicación y que se mantienen en todas las vistas son:
-- Cabecera con menú de navegación
+- Cabecera general con menú de navegación
 - Footer
 - Contenedor principal (bordes, redondeo, fondo, colores, anchuras, márgenes y espaciados)
+- Cabecera de la sección (los estilos y la organización aplican en cada sección)
 
 ### Contenido
 Los componentes que incluyen contenido y que pueden repetirse dependen de las secciones:
