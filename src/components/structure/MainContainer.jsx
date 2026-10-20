@@ -1,4 +1,4 @@
-const Container = ({ children }) => {
+const MainContainer = ({ children }) => {
   return (
     <section className="">
         {children}
@@ -6,4 +6,4 @@ const Container = ({ children }) => {
   )
 };
 
-export default Container;
+export default MainContainer;

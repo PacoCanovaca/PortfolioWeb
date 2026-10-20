@@ -1,5 +1,5 @@
 import { Code2 } from 'lucide-react';
-import TechTag from '../TechTag';
+import TechTag from './TechTag';
 
 const ProjectCard = ({ project }) => {
   return (

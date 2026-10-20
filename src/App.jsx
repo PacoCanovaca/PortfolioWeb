@@ -1,7 +1,7 @@
 import { Route, Routes } from 'react-router-dom';
 import './index.css';
-import NavBar from './components/structure/NavBar';
-import Footer from './components/structure/Footer';
+import SiteHeader from './components/structure/Header';
+import SiteFooter from './components/structure/Footer';
 import AboutMe from './components/sections/AboutMe';
 import Projects from './components/sections/Projects';
 import CareerPath from './components/sections/CareerPath';
@@ -12,10 +12,8 @@ const App = () => {
 
   return (
     <div>
-      <header>
-        <NavBar />
-      </header>
-      <main>
+      <SiteHeader />
+      <main className="mt-[40px]">
         <Routes>
           <Route path="/about-me" element={<AboutMe />}/>
           <Route path="/projects" element={<Projects />}/>
@@ -24,9 +22,7 @@ const App = () => {
           <Route path="/contact" element={<Contact />}/>
         </Routes>
       </main>
-      <footer>
-        <Footer />
-      </footer>
+      <SiteFooter />
     </div>
   );
 }

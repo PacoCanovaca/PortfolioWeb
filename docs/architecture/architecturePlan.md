@@ -43,18 +43,16 @@ Los elementos que forman el esqueleto de la aplicación y que se mantienen en to
 ### Contenido
 Los componentes que incluyen contenido y que pueden repetirse dependen de las secciones:
 
-1. Proyectos (Componente "Proyecto")
+1. Proyectos (Componente "ProjectCard")
 En esta sección las tarjetas de los proyectos siguen un patrón similar. Se repetirán títulos, contenidos, botones, colores y tipografías. Además, los tamaños y las proporciones también serán idénticas entre todas las tarjetas.
 
-2. Trayectoria (Componente "Experiencia" y componente "Formación")
-Tanto las entradas de trayectoria profesional como las de trayectoria educativa compartirán formato, por lo que en este caso el componente con título, contenido y fechas es reutilizable.
+2. Trayectoria (Componente "TimeLine")
+Tanto las entradas de trayectoria profesional como las de trayectoria educativa compartirán el formato de línea del tiempo vertical, por lo que en este caso el componente es reutilizable y llevará un mismo formato.
 
-3. Habilidades (Componente "Habilidad")
+3. Habilidades (Componente "Skill")
 Cada una de las habilidades, ya sea técnica o social, compartirá estructura y formato. Por tanto, el bloque con nombre de la habilidad, imagen y pequeña descripción será reutilizable.
 
 ### Interacción
 Para la interacción del usuario con la página, los Componente que se repetirán son:
 - Menú hamburguesa (en dispositivos móviles)
 - Botones (general para bordes, espacios, fuentes y tamaños, teniendo luego cada tipo de botón sus colores específicos)
-- Botón de descarga de CV
-- Botón de desplegar detalles de un proyecto

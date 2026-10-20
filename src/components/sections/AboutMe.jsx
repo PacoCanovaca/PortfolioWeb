@@ -1,4 +1,4 @@
-import Container from '../structure/Container';
+import Container from '../structure/MainContainer';
 
 const AboutMe = () => {
   return (

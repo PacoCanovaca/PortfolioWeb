@@ -1,12 +1,11 @@
-import React from 'react';
 import { NavLink } from 'react-router-dom';
 
 const NavBar = () => {
-  const navLinkClass = ({ isActive }) => isActive ? "active" : undefined;
+  const navLinkClass = ({ isActive }) => `whitespace-nowrap rounded-md px-3 py-2 text-md text-text-muted transition-colors hover:bg-brand-soft hover:text-brand-hover ${isActive ? "active" : ""}`;
 
   return (
     <nav className="">
-      <ul>
+      <ul className="flex items-center gap-1">
         <li>
           <NavLink to="/about-me" className={navLinkClass}>
             Sobre mí

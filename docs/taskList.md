@@ -35,7 +35,7 @@
 [ ] Sección Trayectoria
 [ ] Sección Habilidades
 [ ] Sección Contacto
-[ ] Integrar y revisar secciones
+[ ] Incluir contenido final en todas las secciones (mediante archivos en carpeta data)
 
 6. Navegación e interacciones
 [ ] Implementar navegación
