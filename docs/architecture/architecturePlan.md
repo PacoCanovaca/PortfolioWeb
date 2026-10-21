@@ -10,7 +10,7 @@ En la parte superior de la pantalla, y de forma fija (a la vista en la misma pos
 
 Los apartados "Sobre mí", "Proyectos", "Trayectoria", "Habilidades" y "Contacto" serán estáticos y cargarán todo el contenido de una sola vez.
 
-El footer incluirá los enlaces de contacto para GitHub, LinkedIn y Correo Electrónico y un botón para descargar el CV (aunque ya está incluido en el inicio del Sobre Mí).
+El footer incluirá los enlaces de contacto para GitHub, LinkedIn y Correo Electrónico.
 
 Cuando el usuario entra en la página por primera vez (y cada vez que se vuelve a cargar la página), la sección que se muestra por defecto es "Sobre mí".
 

@@ -13,7 +13,7 @@
 
 #### Sobre mí
 
-¡Hola, bienvenido a mi rincón! Me llamo Paco. Soy un desarrollador de software con especial interés en el desarrollo backend, la inteligencia artificial y la ingeniería y ciencia de datos.
+¡Hola, bienvenido a mi rincón! Me llamo Paco. Soy un desarrollador de software interesado en el desarrollo backend, la inteligencia artificial y la ingeniería y ciencia de datos.
 
 Mi camino hasta aquí no ha sido precisamente lineal: antes de adentrarme en el mundo del desarrollo, trabajé como maestro de Educación Primaria. Esta experiencia me ha enseñado a comunicar, organizar ideas y afrontar problemas desde diferentes perspectivas, habilidades que hoy también aplico al programar.
 
