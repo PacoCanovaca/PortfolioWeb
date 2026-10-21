@@ -3,10 +3,10 @@ import TechTag from './TechTag';
 
 const ProjectCard = ({ project }) => {
   return (
-    <article className="group flex h-full flex-col gap-5 rounded-xl border border-border bg-surface p-6 transition-colors hover:border-brand/50">
+    <article className="group flex h-full flex-col gap-5 rounded-xl border-2 border-border bg-card p-6 transition-colors hover:border-brand/50">
       <header className="flex items-center justify-between font-mono text-xs text-text-muted">
         <span className="rounded bg-brand-soft px-2 py-1 text-brand">{project.id}</span>
-        <time>{project.year}</time>
+        <time className="rounded bg-background border border-border px-2">{project.year}</time>
       </header>
 
       <div className="flex flex-1 flex-col gap-2">

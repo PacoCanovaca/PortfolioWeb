@@ -29,7 +29,7 @@
 ## Desarrollo
 5. Desarrollo y diseño de componentes
 [X] Estructura global
-[ ] Componentes reutilizables
+[X] Componentes reutilizables
 [ ] Sección Sobre mí
 [ ] Sección Proyectos
 [ ] Sección Trayectoria
@@ -45,6 +45,7 @@
 [ ] Verificar comportamiento SPA
 
 7. Responsive y refinamiento
+[ ] Desarrollar componente menú hamburguesa desplegable
 [ ] Adaptar a móvil
 [ ] Adaptar a tablet
 [ ] Adaptar a escritorio
