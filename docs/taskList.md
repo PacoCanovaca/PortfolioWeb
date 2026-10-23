@@ -30,7 +30,7 @@
 5. Desarrollo y diseño de componentes
 [X] Estructura global
 [X] Componentes reutilizables
-[ ] Sección Sobre mí
+[X] Sección Sobre mí
 [ ] Sección Proyectos
 [ ] Sección Trayectoria
 [ ] Sección Habilidades

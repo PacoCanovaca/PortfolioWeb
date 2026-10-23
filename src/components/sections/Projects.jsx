@@ -11,7 +11,7 @@ const Projects = () => {
       title="Proyectos"
       description="Una selección de trabajos personales y profesionales en los que he participado de principio a fin."
     >
-      <ul className="grid gap-6 md:grid-cols-2">
+      <ul className="grid gap-6 md:grid-cols-2 mt-10 mb-4">
         {projects.map((project) => (
           <li key={project.id}>
             <ProjectCard project={project} />

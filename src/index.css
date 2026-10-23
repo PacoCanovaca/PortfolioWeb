@@ -5,10 +5,10 @@
   --color-brand-soft: #F8E9EB; /* accent */
   --color-brand-hover: #A82F3D; /* accent-foreground */
   
-  --color-background: #F5F3F1; /* background */
+  --color-background: #F0EDEA; /* background */
   --color-surface: #FFFFFF; /* card */
-  --color-card: #FEFDFB;
-  --color-border: #E3DDE0; /* border */
+  --color-card: #F9F9F9;
+  --color-border: #DBD6D8; /* border */
 
   --color-text: #29252A; /* text */
   --color-text-muted: #665D65; /* muted o muted-foreground */

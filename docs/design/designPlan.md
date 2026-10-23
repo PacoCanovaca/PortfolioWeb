@@ -4,16 +4,16 @@
 
 Colores principales:
 - Color de marca (brand): Carmín #C23B4A
-- Fondo principal (background): Blanco roto #F5F3F1
+- Fondo principal (background): Blanco roto #F0EDEA
 - Texto principal (text): Carbón #29252A
 - Fondo superficies (surface): Blanco #FFFFFF
 
 Otros colores:
 - Hover color de marca (brand-hover): #A82F3D
-- Fondo tarjetas (card): #FEFDFB
+- Fondo tarjetas (card): #F9F9F9
 - Fondo elementos seleccionados (brand-soft): #F8E9EB
 - Descripciones, fechas y metadatos (text-muted): #665D65
-- Bordes, separadores y divisiones (border): #E3DDE0
+- Bordes, separadores y divisiones (border): #DBD6D8
 
 Usos concretose en la imagen correspondiente
 
