@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Habilidades técnicas",
+    "groups": [
+      {
+        "label": "Lenguajes",
+        "items": ["TypeScript", "JavaScript", "Python", "SQL", "HTML", "CSS"]
+      },
+      {
+        "label": "Frontend",
+        "items": [
+          "React",
+          "Next.js",
+          "Tailwind CSS",
+          "Testing Library",
+          "Accesibilidad"
+        ]
+      },
+      {
+        "label": "Backend",
+        "items": [
+          "Node.js",
+          "FastAPI",
+          "PostgreSQL",
+          "Redis",
+          "REST",
+          "GraphQL"
+        ]
+      },
+      {
+        "label": "Herramientas",
+        "items": ["Git", "Docker", "CI/CD", "Vercel", "Figma", "Linux"]
+      }
+    ]
+  },
+  {
+    "name": "Competencias transversales",
+    "groups": [
+      {
+        "label": "Habilidades blandas",
+        "items": [
+          "Empatía",
+          "Resolución de problemas",
+          "Organización y planificación",
+          "Toma de decisiones",
+          "Escucha activa"
+        ]
+      },
+      {
+        "label": "Idiomas",
+        "items": [
+          "Español - Nativo",
+          "Inglés - Cambridge C1",
+          "Francés - DALF C1"
+        ]
+      }
+    ]
+  }
+]
