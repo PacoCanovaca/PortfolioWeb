@@ -1,7 +1,6 @@
 import projects from '../../../data/projects.json';
 import ProjectCard from '../content/ProjectCard';
 import MainContainer from '../structure/MainContainer';
-import SectionHeading from '../structure/SectionHeader';
 
 const Projects = () => {
     return (

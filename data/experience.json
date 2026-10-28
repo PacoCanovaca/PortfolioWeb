@@ -1,0 +1,20 @@
+[
+  {
+    "period": "2024 — Actualidad",
+    "title": "Desarrolladora Full Stack",
+    "place": "Estudio Nómada",
+    "description": "Desarrollo de productos web para clientes del sector turístico y cultural. Responsable de la arquitectura frontend y del sistema de diseño."
+  },
+  {
+    "period": "2022 — 2024",
+    "title": "Desarrolladora Frontend",
+    "place": "Tecnalia Digital",
+    "description": "Construcción de interfaces en React para una plataforma de gestión logística utilizada por más de 300 empresas."
+  },
+  {
+    "period": "2021 — 2022",
+    "title": "Prácticas de desarrollo",
+    "place": "Coworking Lab",
+    "description": "Mantenimiento de webs corporativas y primeros pasos con APIs en Node.js."
+  }
+]
