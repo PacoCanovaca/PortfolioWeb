@@ -2,8 +2,6 @@ import TechTag from "../content/TechTag";
 import skills from "../../../data/skills.json";
 import MainContainer from "../structure/MainContainer";
 
-//! Quiero establecer dos partes: Habilidades técnicas (Lenguajes, Frontend, Backend, Herramientas), como en la plantilla y Competencias transversales (Habilidades blandas, Idiomas)
-
 const Skills = () => {
   return (
     <MainContainer

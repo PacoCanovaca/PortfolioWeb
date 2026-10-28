@@ -31,9 +31,9 @@
 [X] Estructura global
 [X] Componentes reutilizables
 [X] Sección Sobre mí
-[ ] Sección Proyectos
-[ ] Sección Trayectoria
-[ ] Sección Habilidades
+[X] Sección Proyectos
+[X] Sección Trayectoria
+[X] Sección Habilidades
 [ ] Sección Contacto
 [ ] Incluir contenido final en todas las secciones (mediante archivos en carpeta data)
 
