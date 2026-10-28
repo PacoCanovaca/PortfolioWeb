@@ -20,7 +20,7 @@ const Skills = () => {
                   key={group.label}
                   className="flex flex-col gap-4 border-border p-6 [&:not(:last-child)]:border-b sm:[&:nth-child(odd)]:border-r sm:[&:nth-last-child(-n+2)]:border-b-0"
                 >
-                  <dt className="text-sm font-semibold uppercase tracking-wider text-muted">
+                  <dt className="text-md font-semibold uppercase tracking-wider text-muted">
                     {group.label}
                   </dt>
                   <dd>

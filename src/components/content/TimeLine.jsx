@@ -1,7 +1,7 @@
 const Timeline = ({ title, icon: Icon, entries }) => {
   return (
     <article className="flex flex-col gap-6 p-6">
-      <h3 className="flex items-center gap-2 text-lg font-semibold">
+      <h3 className="flex items-center gap-2 text-xl font-semibold">
         <span className="flex size-8 items-center justify-center rounded-md bg-brand-soft text-brand-hover">
           <Icon className="size-4" aria-hidden="true" />
         </span>
@@ -14,10 +14,10 @@ const Timeline = ({ title, icon: Icon, entries }) => {
               aria-hidden="true"
               className="absolute top-1.5 -left-1.5 size-3 rounded-full border-2 border-brand bg-surface"
             />
-            <span className="font-mono text-xs text-text-muted">{entry.period}</span>
-            <p className="font-semibold">{entry.title}</p>
-            <p className="text-sm font-medium text-brand">{entry.place}</p>
-            <p className="mt-1 text-sm leading-relaxed text-text-muted text-pretty">{entry.description}</p>
+            <span className="font-mono text-sm text-text-muted">{entry.period}</span>
+            <p className="text-lg font-semibold">{entry.title}</p>
+            <p className="text-md font-medium text-brand">{entry.place}</p>
+            <p className="mt-1 text-md leading-relaxed text-text-muted text-pretty">{entry.description}</p>
           </li>
         ))}
       </ol>
