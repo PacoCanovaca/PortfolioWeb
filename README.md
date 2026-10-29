@@ -1,5 +1,7 @@
 # Portfolio Web — Paco Canovaca
 
+🌐Desplegado en: https://paco-canovaca.vercel.app/
+
 ## 📖 ¿Qué es este proyecto?
 
 Portfolio web personal de Paco Canovaca, desarrollado como una **Single Page Application (SPA)** para presentar su perfil profesional en una interfaz clara, adaptable a distintos dispositivos y organizada por secciones.
@@ -109,14 +111,6 @@ La ruta `/` redirige a `/about-me`. Las rutas desconocidas muestran la página d
 - Estética minimalista, con tonos carmín, fondos claros y tipografías IBM Plex Sans e IBM Plex Mono.
 - Datos de proyectos, trayectoria y habilidades separados de la lógica visual mediante archivos JSON.
 - Formulario de contacto con estados de envío, confirmación y error.
-
-Añade aquí capturas de pantalla o GIFs de la aplicación:
-
-![Presentación personal](URL_DE_LA_CAPTURA_ABOUT_ME)
-
-![Listado de proyectos](URL_DE_LA_CAPTURA_PROJECTS)
-
-![Formulario de contacto](URL_DE_LA_CAPTURA_CONTACT)
 
 ## 👨‍💻 Autor y Licencia
 
