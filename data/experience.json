@@ -1,20 +1,20 @@
 [
   {
-    "period": "2024 — Actualidad",
-    "title": "Desarrolladora Full Stack",
-    "place": "Estudio Nómada",
-    "description": "Desarrollo de productos web para clientes del sector turístico y cultural. Responsable de la arquitectura frontend y del sistema de diseño."
+    "period": "2023 — 2026",
+    "title": "Maestro de Primaria",
+    "place": "Colegio Almanzor - Córdoba, España",
+    "description": "Docente con labores de tutoría integral de grupo, coordinación de proyectos pedagógicos y resolución de conflictos. Impartición de materias troncales y docencia especializada en lengua extranjera (Francés)."
   },
   {
-    "period": "2022 — 2024",
-    "title": "Desarrolladora Frontend",
-    "place": "Tecnalia Digital",
-    "description": "Construcción de interfaces en React para una plataforma de gestión logística utilizada por más de 300 empresas."
+    "period": "2022 — 2023",
+    "title": "Profesor auxiliar de Español como Lengua Extranjera",
+    "place": "Lycée de Borda - Dax, Francia",
+    "description": "Docente especializado en la impartición de módulos de conversación y dinamización lingüística en entorno multicultural. Coordinación directa con el equipo docente titular en la programación y evaluación académica."
   },
   {
-    "period": "2021 — 2022",
-    "title": "Prácticas de desarrollo",
-    "place": "Coworking Lab",
-    "description": "Mantenimiento de webs corporativas y primeros pasos con APIs en Node.js."
+    "period": "2019 — 2023",
+    "title": "Community Manager",
+    "place": "Coacharte - Córdoba, España",
+    "description": "Gestor de presencia digital de la empresa, abarcando tanto redes sociales como creación y soporte de contenidos en la web corporativa."
   }
 ]

@@ -4,32 +4,30 @@
     "groups": [
       {
         "label": "Lenguajes",
-        "items": ["TypeScript", "JavaScript", "Python", "SQL", "HTML", "CSS"]
+        "items": ["Java", "JavaScript", "Python", "SQL", "HTML", "CSS", "Kotlin", "Dart"]
       },
       {
         "label": "Frontend",
         "items": [
-          "React",
-          "Next.js",
-          "Tailwind CSS",
-          "Testing Library",
-          "Accesibilidad"
+          "React.js",
+          "Tailwind CSS"
         ]
       },
       {
-        "label": "Backend",
+        "label": "Backend y datos",
         "items": [
           "Node.js",
           "FastAPI",
+          "Spring Boot",
+          "MySQL",
           "PostgreSQL",
-          "Redis",
-          "REST",
-          "GraphQL"
+          "SQLite",
+          "MongoDB"
         ]
       },
       {
         "label": "Herramientas",
-        "items": ["Git", "Docker", "CI/CD", "Vercel", "Figma", "Linux"]
+        "items": ["Git", "Trello", "VSCode", "IntelliJ", "Android Studio", "Docker", "Vercel", "Figma", "AWS"]
       }
     ]
   },

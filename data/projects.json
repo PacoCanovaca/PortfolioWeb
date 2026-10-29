@@ -1,56 +1,44 @@
 [
   {
     "id": "PRJ-001",
-    "title": "Ruta Verde",
-    "description": "Aplicación para planificar rutas en bicicleta por la ciudad con datos abiertos de carriles bici y calidad del aire en tiempo real.",
+    "title": "Gestor de entrenamientos",
+    "description": "Aplicación para planificación y seguimiento de rutinas deportivas, con interfaz gráfica y persistencia de datos en base de datos relacional.",
     "stack": [
-      "Next.js",
-      "TypeScript",
-      "PostgreSQL",
-      "Mapbox"
+      "Java",
+      "JavaFX",
+      "JDBC",
+      "MariaDB",
+      "Jakarta XML Binding"
     ],
     "year": "2026",
-    "repo": "#",
-    "demo": "#"
+    "repo": "https://github.com/PacoCanovaca/GestorEntrenamientos"
   },
   {
     "id": "PRJ-002",
-    "title": "Cuaderno",
-    "description": "Editor de notas colaborativo con sincronización en tiempo real, soporte Markdown y modo sin conexión.",
+    "title": "Chess Books API",
+    "description": "API REST para la consulta y catalogación de bibliografía de ajedrez. Conectada a base de datos no relacional",
     "stack": [
-      "React",
       "Node.js",
-      "WebSockets",
-      "Redis"
+      "Express.js",
+      "MongoDB",
+      "JWT",
+      "bcrypt",
+      "Cloudinary"
     ],
-    "year": "2025",
-    "repo": "#",
-    "demo": "#"
+    "year": "2026",
+    "repo": "https://github.com/PacoCanovaca/ChessBooksAPI"
   },
   {
     "id": "PRJ-003",
-    "title": "Facturín",
-    "description": "Panel de facturación para autónomos: generación de facturas en PDF, control de gastos e informes trimestrales.",
+    "title": "Portfolio Web",
+    "description": "Aplicación web interactiva y responsiva enfocada en mi perfil profesional, únicamente en el lado del cliente.",
     "stack": [
-      "Next.js",
-      "Prisma",
-      "Stripe",
-      "Tailwind"
+      "React.js",
+      "Tailwind CSS",
+      "Vite",
+      "EmailJS"
     ],
     "year": "2025",
-    "repo": "#"
-  },
-  {
-    "id": "PRJ-004",
-    "title": "API Biblioteca",
-    "description": "API REST para la gestión de préstamos de una red de bibliotecas municipales, con autenticación y documentación OpenAPI.",
-    "stack": [
-      "Python",
-      "FastAPI",
-      "Docker",
-      "PostgreSQL"
-    ],
-    "year": "2024",
     "repo": "#"
   }
 ]

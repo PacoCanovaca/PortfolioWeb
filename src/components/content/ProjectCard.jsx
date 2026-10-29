@@ -28,6 +28,7 @@ const ProjectCard = ({ project }) => {
         {project.repo ? (
           <a
             href={project.repo}
+            target="_blank"
             className="inline-flex items-center gap-1.5 text-text transition-colors hover:text-brand"
           >
             <Code2 className="size-4" aria-hidden="true" />

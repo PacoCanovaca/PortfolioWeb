@@ -1,14 +1,14 @@
 [
   {
-    "period": "2019 — 2021",
-    "title": "CFGS Desarrollo de Aplicaciones Web",
-    "place": "IES Abastos, Valencia",
-    "description": "Formación en desarrollo web cliente y servidor, bases de datos y despliegue."
+    "period": "2025 — 2027",
+    "title": "CFGS Desarrollo de Aplicaciones Multiplataforma",
+    "place": "ThePower - Formación en línea",
+    "description": "Formación en desarrollo multiplataforma, gestión de bases de datos y despliegue de aplicaciones. En esta formación se abarcan numerosas tecnologías, desde diversos lenguajes de programación como Java, JavaScript, Python, Kotlin o Dart hasta otras herramientas como Git, Docker, Figma, AWS, VSCode o IntelliJ."
   },
   {
-    "period": "2023",
-    "title": "Certificación en Accesibilidad Web",
-    "place": "W3C — Curso en línea",
-    "description": "Pautas WCAG 2.2 y auditoría de accesibilidad en aplicaciones web."
+    "period": "2026-2027",
+    "title": "Máster de especialización en Desarrollo Web Full-Stack",
+    "place": "ThePower - Formación en línea",
+    "description": "Formación especializada en el desarrollo de aplicaciones web, utilizando tecnologías que permiten trabajar tanto en el lado del cliente como en el del servidor (frontend y backend). Centrado en un stack que va desde React.js, React Native y Tailwind CSS para la parte del cliente hasta Node.js, Express.js, SQL y MongoDB para la parte del servidor."
   }
 ]
