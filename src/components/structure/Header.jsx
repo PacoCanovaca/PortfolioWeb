@@ -12,7 +12,7 @@ const SiteHeader = () => {
       <div className="flex items-center justify-between gap-6 px-6 py-4">
         <NavLink to="/" className={NavLinkClass}>
           <img
-            src="public/icon.png"
+            src="/icon.png"
             alt="Logo PCC"
             className="size-10 rounded-md"
           />

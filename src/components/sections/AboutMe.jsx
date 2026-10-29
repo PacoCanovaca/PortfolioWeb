@@ -1,6 +1,8 @@
 import MainContainer from "../structure/MainContainer";
 import SectionHeading from "../structure/SectionHeader";
 import { Code2, File } from "lucide-react";
+import selfImage from "../../assets/images/selfImage.png";
+import curriculumPdf from "../../assets/curriculum.pdf";
 
 const AboutMe = () => {
   return (
@@ -58,7 +60,7 @@ const AboutMe = () => {
           <figure className="mx-auto w-full max-w-xs">
             <div className="overflow-hidden rounded-xl border border-border bg-brand-hover p-2">
               <img
-                src="src/assets/images/selfImage.png"
+                src={selfImage}
                 alt="Caricatura de Paco"
                 priority
                 className="aspect-square rounded-lg object-cover"
@@ -71,7 +73,7 @@ const AboutMe = () => {
           </figure>
           <div className="w-full flex items-center justify-evenly mb-4 md:mb-0">
             <a
-              href="src/assets/curriculum.pdf"
+              href={curriculumPdf}
               target="_blank"
               className="inline-flex items-center gap-1.5 rounded-md bg-brand px-5 py-3 text-sm font-medium text-surface transition-colors hover:bg-brand-hover"
             >
