@@ -16,7 +16,7 @@ const AboutMe = () => {
               title="¡Bienvenid@ a mi rincón!"
             />
           </div>
-          <div className="order-3 flex max-w-lg flex-col gap-4 text-sm sm:text-base text-text md:order-none">
+          <div className="order-3 flex max-w-lg flex-col gap-4 text-text md:order-none">
             <p>
               ¡Hola! Me llamo Paco. Soy un desarrollador de software en
               constante crecimiento.
