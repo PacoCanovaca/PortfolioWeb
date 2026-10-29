@@ -38,32 +38,32 @@
 [X] Incluir contenido final en todas las secciones (mediante archivos en carpeta data)
 
 6. Navegación e interacciones
-[ ] Implementar navegación
-[ ] Interacciones de tarjetas
-[ ] Estados visuales
-[ ] Animaciones
-[ ] Verificar comportamiento SPA
+[X] Implementar navegación
+[X] Interacciones de tarjetas
+[X] Estados visuales
+[X] Animaciones
+[X] Verificar comportamiento SPA
 
 7. Responsive y refinamiento
-[ ] Desarrollar componente menú hamburguesa desplegable
-[ ] Adaptar a móvil
-[ ] Adaptar a tablet
-[ ] Adaptar a escritorio
+[X] Desarrollar componente menú hamburguesa desplegable
+[X] Adaptar a móvil
+[X] Adaptar a tablet
+[X] Adaptar a escritorio
 [ ] Revisar interacciones táctiles
-[ ] Refinar identidad visual
+[X] Refinar identidad visual
 
 ## Pruebas, revisión y despliegue
 8. Testing y calidad
-[ ] Pruebas funcionales
-[ ] Pruebas visuales
-[ ] Pruebas técnicas
+[X] Pruebas funcionales
+[X] Pruebas visuales
+[X] Pruebas técnicas
 [ ] Accesibilidad
 [ ] Corregir errores
 
 9. Optimización
 [ ] Optimizar rendimiento
 [ ] SEO básico
-[ ] Experiencia de usuario
+[X] Experiencia de usuario
 [ ] Revisión de producción
 
 10. Despliegue y documentación

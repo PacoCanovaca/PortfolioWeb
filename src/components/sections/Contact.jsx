@@ -53,7 +53,7 @@ const Contact = () => {
       <form
         ref={formRef}
         onSubmit={handleSubmit}
-        className="mt-10 mb-4 flex flex-col gap-6 w-[90%] mx-auto"
+        className="mt-10 mb-4 flex flex-col gap-6 w-full max-w-4xl mx-auto"
       >
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="flex flex-col gap-2">

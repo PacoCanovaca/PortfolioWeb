@@ -13,7 +13,9 @@ const Skills = () => {
       <div className="flex flex-col gap-6 mt-10 mb-4">
         {skills.map((type) => (
           <article className="flex flex-col gap-4">
-            <h3 className="text-2xl font-medium text-brand-hover">{type.name}</h3>
+            <h3 className="text-2xl font-medium text-brand-hover">
+              {type.name}
+            </h3>
             <dl className="grid overflow-hidden rounded-xl border border-border bg-card sm:grid-cols-2">
               {type.groups.map((group) => (
                 <div
@@ -27,9 +29,7 @@ const Skills = () => {
                     <ul className="flex flex-wrap gap-2">
                       {group.items.map((item) => (
                         <li key={item}>
-                          <TechTag>
-                            {item}
-                          </TechTag>
+                          <TechTag>{item}</TechTag>
                         </li>
                       ))}
                     </ul>

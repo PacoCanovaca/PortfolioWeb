@@ -4,14 +4,20 @@
     "groups": [
       {
         "label": "Lenguajes",
-        "items": ["Java", "JavaScript", "Python", "SQL", "HTML", "CSS", "Kotlin", "Dart"]
+        "items": [
+          "Java",
+          "JavaScript",
+          "Python",
+          "SQL",
+          "HTML",
+          "CSS",
+          "Kotlin",
+          "Dart"
+        ]
       },
       {
         "label": "Frontend",
-        "items": [
-          "React.js",
-          "Tailwind CSS"
-        ]
+        "items": ["React.js", "Tailwind CSS"]
       },
       {
         "label": "Backend y datos",
@@ -27,7 +33,17 @@
       },
       {
         "label": "Herramientas",
-        "items": ["Git", "Trello", "VSCode", "IntelliJ", "Android Studio", "Docker", "Vercel", "Figma", "AWS"]
+        "items": [
+          "Git",
+          "Trello",
+          "VSCode",
+          "IntelliJ",
+          "Android Studio",
+          "Docker",
+          "Vercel",
+          "Figma",
+          "AWS"
+        ]
       }
     ]
   },

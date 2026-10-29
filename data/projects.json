@@ -3,13 +3,7 @@
     "id": "PRJ-001",
     "title": "Gestor de entrenamientos",
     "description": "Aplicación para planificación y seguimiento de rutinas deportivas, con interfaz gráfica y persistencia de datos en base de datos relacional.",
-    "stack": [
-      "Java",
-      "JavaFX",
-      "JDBC",
-      "MariaDB",
-      "Jakarta XML Binding"
-    ],
+    "stack": ["Java", "JavaFX", "JDBC", "MariaDB", "Jakarta XML Binding"],
     "year": "2026",
     "repo": "https://github.com/PacoCanovaca/GestorEntrenamientos"
   },
@@ -32,13 +26,8 @@
     "id": "PRJ-003",
     "title": "Portfolio Web",
     "description": "Aplicación web interactiva y responsiva enfocada en mi perfil profesional, únicamente en el lado del cliente.",
-    "stack": [
-      "React.js",
-      "Tailwind CSS",
-      "Vite",
-      "EmailJS"
-    ],
+    "stack": ["React.js", "Tailwind CSS", "Vite", "EmailJS"],
     "year": "2025",
-    "repo": "#"
+    "repo": "https://github.com/PacoCanovaca/PortfolioWeb"
   }
 ]

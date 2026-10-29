@@ -1,10 +1,10 @@
-import projects from '../../../data/projects.json';
-import ProjectCard from '../content/ProjectCard';
-import MainContainer from '../structure/MainContainer';
+import projects from "../../../data/projects.json";
+import ProjectCard from "../content/ProjectCard";
+import MainContainer from "../structure/MainContainer";
 
 const Projects = () => {
-    return (
-    <MainContainer 
+  return (
+    <MainContainer
       id="proyectos"
       path="~/projects"
       title="Proyectos"
@@ -18,7 +18,7 @@ const Projects = () => {
         ))}
       </ul>
     </MainContainer>
-  )
+  );
 };
 
 export default Projects;
