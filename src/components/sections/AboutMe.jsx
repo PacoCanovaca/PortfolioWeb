@@ -12,17 +12,17 @@ const AboutMe = () => {
             <SectionHeading
               id="sobre-mi"
               path="~/about-me"
-              title="¡Bienvenido a mi rincón!"
+              title="¡Bienvenid@ a mi rincón!"
             />
           </div>
           <p>
-            ¡Hola! Me llamo Paco. Soy un desarrollador de software interesado en el desarrollo backend, la inteligencia artificial y la ingeniería y ciencia de datos.
+            ¡Hola! Me llamo Paco. Soy un desarrollador de software en constante crecimiento.
           </p>
           <p>
             Mi camino hasta aquí no ha sido precisamente lineal: antes de adentrarme en el mundo del desarrollo, trabajé como maestro de Educación Primaria. Esta experiencia me ha enseñado a comunicar, organizar ideas y afrontar problemas desde diferentes perspectivas, habilidades que hoy también aplico al programar.
           </p>
           <p>
-            Me gusta entender cómo funcionan las cosas, buscar soluciones a problemas reales y construir proyectos que tengan sentido. Actualmente sigo ampliando mis conocimientos y explorando nuevas tecnologías.
+            Me gusta entender cómo funcionan las cosas, buscar soluciones a problemas reales y construir proyectos que tengan sentido. Actualmente sigo ampliando mis conocimientos y explorando nuevas tecnologías. Estoy interesado en áreas como el desarrollo backend, la inteligencia artificial y la ingeniería y ciencia de datos.
           </p>
           <p>
             Fuera del código, me encontrarás probablemente delante de un tablero de ajedrez, siguiendo alguna carrera de motor o practicando algún deporte. Soy una persona curiosa y siempre tengo ganas de explorar nuevos horizontes y experiencias.

@@ -34,7 +34,7 @@
 [X] Sección Proyectos
 [X] Sección Trayectoria
 [X] Sección Habilidades
-[ ] Sección Contacto
+[X] Sección Contacto
 [ ] Incluir contenido final en todas las secciones (mediante archivos en carpeta data)
 
 6. Navegación e interacciones
