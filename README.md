@@ -120,4 +120,4 @@ La ruta `/` redirige a `/about-me`. Las rutas desconocidas muestran la página d
 - **LinkedIn:** [Perfil profesional](https://www.linkedin.com/in/francisco-jos%C3%A9-canovaca-c%C3%A1rdenas-65a51a1aa/)
 - **Email:** [pacocanovaca97@gmail.com](mailto:pacocanovaca97@gmail.com)
 
-**Licencia:** el repositorio no especifica actualmente una licencia. Consulta con el autor antes de reutilizar o redistribuir el código.
+**Licencia:** [ISC](https://opensource.org/licenses/ISC)
